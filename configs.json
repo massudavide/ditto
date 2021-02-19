@@ -192,6 +192,30 @@
   "testset": "data/er_magellan/Dirty/Walmart-Amazon/test.txt"
   },
   {
+  "name": "Structured/amsterdam",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/er_magellan/Structured/amsterdam/train.txt",
+  "validset": "data/er_magellan/Structured/amsterdam/valid.txt",
+  "testset": "data/er_magellan/Structured/amsterdam/test.txt"
+  },
+  {
+  "name": "Structured/barcellona",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/er_magellan/Structured/barcellona/train.txt",
+  "validset": "data/er_magellan/Structured/barcellona/valid.txt",
+  "testset": "data/er_magellan/Structured/barcellona/test.txt"
+  },
+  {
+  "name": "Structured/roma",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/er_magellan/Structured/roma/train.txt",
+  "validset": "data/er_magellan/Structured/roma/valid.txt",
+  "testset": "data/er_magellan/Structured/roma/test.txt"
+  },
+  {
   "name": "Structured/Amazon-Google",
   "task_type": "classification",
   "vocab": ["0", "1"],
